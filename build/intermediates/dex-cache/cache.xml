@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_bab62fa11dfc4840e9321b26250a1e4ed9e472c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_30be1d593e5a4320a93bccced95f6f5a88e064b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8760eddb173598d897b464f97c6c48d731c31ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1714f5961da34623b246931203d45cd4c3c3e70e">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_292ecf7dc1c7961f7a607e0c619369fce731a23d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c2ada85bb35c7218b27a0f8f6ade693e36440abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_defe59b866b755ad6b0e5a0cfb27c24a03150909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dabe6f07aa6eea4ac114e010bfd4b886577ff96d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_43e0ea0a16bda67d97ccbd68105de967c74dd065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_51ffd2c346dd1337b896e6b432d0659d0f534104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e465559381c64df2591cf6ed655453c52d57518a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_0d1fe0592ae9ae6b9cd378d60816ffcd3dbb92c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_5f9d9c4cb2bd6b89eb14dc14c99a1735807133b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_655dc32e9860f55778d11bb0ae49d0ce1dfc0232\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_04de63bb23bacddc72850fb476db2093e0c4fdd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_b13cc366cd7272ad1b0271af124ad77cce91143c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d429ccf825d43db2c57bf729f7ae4773777bf55f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f29b19b542115965089924bcab4518835a681723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9ec16ce4192206ab56ce3e8e7e0d017f902ff7a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e2f5910f2eca846a6c4d474624708b6150c2b0c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c117e9c40d0ae4267fd153764049480e592b551">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_693e5a93a3c3b8e755e83d3e0654511f6e502ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_90b4597e228fae28d5a1d57aef2902009ace1aea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_52e6cff396193099494821014476d1bc81740ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaamKumr\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c2d2fc24b17f333c086092221bb3354a4bff321f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_41a8c4bf694ebee925dce7aaaafefc96bdf51af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="G:\AndroidStudioProjects\The-Movie-DB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d42ae783dc6a80acc5809f1578fc7c355a5b43bf\classes.dex" />
+    </item>
+
+</items>
